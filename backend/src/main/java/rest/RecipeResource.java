@@ -118,6 +118,7 @@ public class RecipeResource {
     }
 
     
+    
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     @Operation(summary = "Get all custom made recipes",
